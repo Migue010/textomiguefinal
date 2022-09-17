@@ -11,3 +11,4 @@ bueno en este momentoi hemos pasado a una segunda rama llamada migue2 en que con
 en que podemos como en este caso guardar una nueva version en otro lado no en la rama original.
 bueno por fin ahora si nuestro ejercicio quedo estupendo.
 vamos a hacer la segunda prueba 
+terminaremos con este documento.
