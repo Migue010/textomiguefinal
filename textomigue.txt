@@ -3,3 +3,9 @@ que voy a realizar es un texto en el cual le voy a hacer modificaciones creando 
 y commits para ir modificando este texto.
 bueno en primer lugar realize el primer commit que consiste en el archivo original
 ahora vamos a hacer un nuevo commit con este nuevo parrafo.
+
+es demasido bueno hacer estos commits pero ahora vamos a pasar a hacer una rama de este 
+archivo para hacer mas modificaciones pero sin intervenir este archivo.
+
+bueno en este momentoi hemos pasado a una segunda rama llamada migue2 en que consiste 
+en que podemos como en este caso guardar una nueva version en otro lado no en la rama original.
