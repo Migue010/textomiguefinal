@@ -1,5 +1,4 @@
-Hola Soy Miguel Angel Blanco y esta es una prueba para el curso de GitHub en programacion y lo 
-que voy a realizar es un texto en el cual le voy a hacer modificaciones creando ramas 
+Hola Soy Miguel Angel Blanco tengo 18 años y esta es una prueba para el curso de GitHub en programacion y lo que voy a realizar es un texto en el cual le voy a hacer modificaciones creando ramas 
 y commits para ir modificando este texto.
 bueno en primer lugar realize el primer commit que consiste en el archivo original
 ahora vamos a hacer un nuevo commit con este nuevo parrafo.
